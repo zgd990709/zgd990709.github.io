@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>En-Xuan Zhang | Home</title>
+    <link>https://example.com/author/en-xuan-zhang/</link>
+      <atom:link href="https://example.com/author/en-xuan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>En-Xuan Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/en-xuan-zhang/avatar_hud9d5a62f5932c1929f0adaf33c0c6fa7_95201_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>En-Xuan Zhang</title>
+      <link>https://example.com/author/en-xuan-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

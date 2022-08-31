@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li-Bin Zhang | Home</title>
+    <link>https://example.com/author/li-bin-zhang/</link>
+      <atom:link href="https://example.com/author/li-bin-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li-Bin Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/li-bin-zhang/avatar_hu9e70f6f88ce0ca9c748399eb5b9c6f8a_547083_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Li-Bin Zhang</title>
+      <link>https://example.com/author/li-bin-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

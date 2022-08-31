@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng-Jun Li | Home</title>
+    <link>https://example.com/author/cheng-jun-li/</link>
+      <atom:link href="https://example.com/author/cheng-jun-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng-Jun Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/cheng-jun-li/avatar_hu09d9269d3bdaf7d536a6b8f4ba4fd3b0_129270_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Cheng-Jun Li</title>
+      <link>https://example.com/author/cheng-jun-li/</link>
+    </image>
+    
+  </channel>
+</rss>

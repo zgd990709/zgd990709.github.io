@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members | Home</title>
+    <link>https://example.com/authors/</link>
+      <atom:link href="https://example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Members</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu7938660f759090ec83813e72e23c982c_55001_512x512_fill_lanczos_center_3.png</url>
+      <title>Members</title>
+      <link>https://example.com/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wan-Li Dong | Home</title>
+    <link>https://example.com/author/wan-li-dong/</link>
+      <atom:link href="https://example.com/author/wan-li-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wan-Li Dong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/wan-li-dong/avatar_hubb29bba6dc6fc13be7647392c42b508a_91828_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wan-Li Dong</title>
+      <link>https://example.com/author/wan-li-dong/</link>
+    </image>
+    
+  </channel>
+</rss>

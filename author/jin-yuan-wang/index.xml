@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jin-Yuan Wang | Home</title>
+    <link>https://example.com/author/jin-yuan-wang/</link>
+      <atom:link href="https://example.com/author/jin-yuan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jin-Yuan Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jin-yuan-wang/avatar_hu8cea36647463b617a56a029bdf06ecb1_189568_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jin-Yuan Wang</title>
+      <link>https://example.com/author/jin-yuan-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guo-Qiang Feng | Home</title>
+    <link>https://example.com/author/guo-qiang-feng/</link>
+      <atom:link href="https://example.com/author/guo-qiang-feng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guo-Qiang Feng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/guo-qiang-feng/avatar_hu8926101f8d4c4eea931236ff21b9880c_663526_270x270_fill_lanczos_center_3.png</url>
+      <title>Guo-Qiang Feng</title>
+      <link>https://example.com/author/guo-qiang-feng/</link>
+    </image>
+    
+  </channel>
+</rss>

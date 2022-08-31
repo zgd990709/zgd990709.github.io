@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Zhu | Home</title>
+    <link>https://example.com/author/wei-zhu/</link>
+      <atom:link href="https://example.com/author/wei-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/wei-zhu/avatar_hu836fc31c397256662e7544440bcdb2ce_281860_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wei Zhu</title>
+      <link>https://example.com/author/wei-zhu/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan-E Zhang | Home</title>
+    <link>https://example.com/author/yan-e-zhang/</link>
+      <atom:link href="https://example.com/author/yan-e-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan-E Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yan-e-zhang/avatar_hue33c43f33f0766e34f7a2295ad87590d_107826_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yan-E Zhang</title>
+      <link>https://example.com/author/yan-e-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

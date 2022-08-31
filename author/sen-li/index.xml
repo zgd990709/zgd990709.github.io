@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sen Li | Home</title>
+    <link>https://example.com/author/sen-li/</link>
+      <atom:link href="https://example.com/author/sen-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sen Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/sen-li/avatar_hu15f486350c03580b5b4692fbb31f02fd_15614_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sen Li</title>
+      <link>https://example.com/author/sen-li/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Da-You Ma | Home</title>
+    <link>https://example.com/author/da-you-ma/</link>
+      <atom:link href="https://example.com/author/da-you-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Da-You Ma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/da-you-ma/avatar_hu9afc8174661112c887559d831e890199_50003_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Da-You Ma</title>
+      <link>https://example.com/author/da-you-ma/</link>
+    </image>
+    
+  </channel>
+</rss>

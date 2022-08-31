@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuan-Hu Lei | Home</title>
+    <link>https://example.com/author/chuan-hu-lei/</link>
+      <atom:link href="https://example.com/author/chuan-hu-lei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chuan-Hu Lei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/chuan-hu-lei/avatar_huf0d14f7ffdd7022e410078f9b1857ff5_154243_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chuan-Hu Lei</title>
+      <link>https://example.com/author/chuan-hu-lei/</link>
+    </image>
+    
+  </channel>
+</rss>

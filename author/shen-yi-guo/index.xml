@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shen-Yi Guo | Home</title>
+    <link>https://example.com/author/shen-yi-guo/</link>
+      <atom:link href="https://example.com/author/shen-yi-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shen-Yi Guo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/shen-yi-guo/avatar_hu4631b9b20b09b6e6642139625f3fdf4d_146935_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shen-Yi Guo</title>
+      <link>https://example.com/author/shen-yi-guo/</link>
+    </image>
+    
+  </channel>
+</rss>

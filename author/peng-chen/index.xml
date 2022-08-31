@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng Chen | Home</title>
+    <link>https://example.com/author/peng-chen/</link>
+      <atom:link href="https://example.com/author/peng-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peng Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/peng-chen/avatar_hu9a75913a9b477713d1d60468fc7f4648_13140_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Peng Chen</title>
+      <link>https://example.com/author/peng-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

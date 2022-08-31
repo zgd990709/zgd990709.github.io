@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia-Hui Chen | Home</title>
+    <link>https://example.com/author/jia-hui-chen/</link>
+      <atom:link href="https://example.com/author/jia-hui-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia-Hui Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jia-hui-chen/avatar_hu9fa3fc226ea7ea807bf2dbee6dbb1bd1_350892_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jia-Hui Chen</title>
+      <link>https://example.com/author/jia-hui-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

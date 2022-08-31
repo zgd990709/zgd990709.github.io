@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong-Hui Leng | Home</title>
+    <link>https://example.com/author/dong-hui-leng/</link>
+      <atom:link href="https://example.com/author/dong-hui-leng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dong-Hui Leng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/dong-hui-leng/avatar_hu8541bfd44efbc2f2b1f9d4017b71873d_121761_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dong-Hui Leng</title>
+      <link>https://example.com/author/dong-hui-leng/</link>
+    </image>
+    
+  </channel>
+</rss>

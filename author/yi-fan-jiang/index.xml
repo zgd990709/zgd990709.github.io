@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi-Fan Jiang | Home</title>
+    <link>https://example.com/author/yi-fan-jiang/</link>
+      <atom:link href="https://example.com/author/yi-fan-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi-Fan Jiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yi-fan-jiang/avatar_huc6cc7b22734979bf5621440c31652b76_124351_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yi-Fan Jiang</title>
+      <link>https://example.com/author/yi-fan-jiang/</link>
+    </image>
+    
+  </channel>
+</rss>

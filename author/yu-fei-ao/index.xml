@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Fei Ao | Home</title>
+    <link>https://example.com/author/yu-fei-ao/</link>
+      <atom:link href="https://example.com/author/yu-fei-ao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Fei Ao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yu-fei-ao/avatar_hu36fc4826b9fd721427cb5393ea906c4b_13596_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yu-Fei Ao</title>
+      <link>https://example.com/author/yu-fei-ao/</link>
+    </image>
+    
+  </channel>
+</rss>

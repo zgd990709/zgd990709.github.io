@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yin Chen | Home</title>
+    <link>https://example.com/author/yin-chen/</link>
+      <atom:link href="https://example.com/author/yin-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yin Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yin-chen/avatar_huef2768693b74d2c68bfa4d41f42bf439_110590_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yin Chen</title>
+      <link>https://example.com/author/yin-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

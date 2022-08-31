@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guang-Di Zhou | Home</title>
+    <link>https://example.com/author/guang-di-zhou/</link>
+      <atom:link href="https://example.com/author/guang-di-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guang-Di Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/guang-di-zhou/avatar_hu21c3a9040eb580a30b5f6b70f09524ea_686532_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Guang-Di Zhou</title>
+      <link>https://example.com/author/guang-di-zhou/</link>
+    </image>
+    
+  </channel>
+</rss>

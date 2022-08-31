@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhuo-Ang Zhang | Home</title>
+    <link>https://example.com/author/zhuo-ang-zhang/</link>
+      <atom:link href="https://example.com/author/zhuo-ang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhuo-Ang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/zhuo-ang-zhang/avatar_hub3d90330afe4d92124e2551dc64bd9fb_71672_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhuo-Ang Zhang</title>
+      <link>https://example.com/author/zhuo-ang-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

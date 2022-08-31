@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xing-Chi Li | Home</title>
+    <link>https://example.com/author/xing-chi-li/</link>
+      <atom:link href="https://example.com/author/xing-chi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xing-Chi Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/xing-chi-li/avatar_hu3de0f6178ee8b0eacc5d41ca22228f59_532251_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xing-Chi Li</title>
+      <link>https://example.com/author/xing-chi-li/</link>
+    </image>
+    
+  </channel>
+</rss>

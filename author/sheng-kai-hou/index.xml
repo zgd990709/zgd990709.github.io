@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheng-Kai Hou | Home</title>
+    <link>https://example.com/author/sheng-kai-hou/</link>
+      <atom:link href="https://example.com/author/sheng-kai-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sheng-Kai Hou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/sheng-kai-hou/avatar_hue98f5723c7087e75a3a49f1b56772019_117181_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sheng-Kai Hou</title>
+      <link>https://example.com/author/sheng-kai-hou/</link>
+    </image>
+    
+  </channel>
+</rss>

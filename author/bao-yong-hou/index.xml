@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bao-Yong Hou | Home</title>
+    <link>https://example.com/author/bao-yong-hou/</link>
+      <atom:link href="https://example.com/author/bao-yong-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bao-Yong Hou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/bao-yong-hou/avatar_hu343c53ef5023804712e2e403735ed643_306146_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bao-Yong Hou</title>
+      <link>https://example.com/author/bao-yong-hou/</link>
+    </image>
+    
+  </channel>
+</rss>
