@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhan-Da Fu | Home</title>
+    <link>https://example.com/author/zhan-da-fu/</link>
+      <atom:link href="https://example.com/author/zhan-da-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhan-Da Fu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/zhan-da-fu/avatar_hu4fde16137120459a0e8c9ea5c0b7c3a1_375368_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhan-Da Fu</title>
+      <link>https://example.com/author/zhan-da-fu/</link>
+    </image>
+    
+  </channel>
+</rss>

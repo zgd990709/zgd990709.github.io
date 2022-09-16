@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chao Long | Home</title>
+    <link>https://example.com/author/chao-long/</link>
+      <atom:link href="https://example.com/author/chao-long/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chao Long</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/chao-long/avatar_hu5eff46ebc58281eecd36ae664924ab97_162685_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chao Long</title>
+      <link>https://example.com/author/chao-long/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shi-Xin Fa | Home</title>
+    <link>https://example.com/author/shi-xin-fa/</link>
+      <atom:link href="https://example.com/author/shi-xin-fa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shi-Xin Fa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/shi-xin-fa/avatar_hu01bf5774a583d20e098b7d4f1ad1f665_234740_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shi-Xin Fa</title>
+      <link>https://example.com/author/shi-xin-fa/</link>
+    </image>
+    
+  </channel>
+</rss>

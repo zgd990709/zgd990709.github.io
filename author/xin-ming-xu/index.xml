@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin-Ming Xu | Home</title>
+    <link>https://example.com/author/xin-ming-xu/</link>
+      <atom:link href="https://example.com/author/xin-ming-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin-Ming Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/xin-ming-xu/avatar_hu00e4381e8098e02ab5e7120f20111957_313737_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xin-Ming Xu</title>
+      <link>https://example.com/author/xin-ming-xu/</link>
+    </image>
+    
+  </channel>
+</rss>
