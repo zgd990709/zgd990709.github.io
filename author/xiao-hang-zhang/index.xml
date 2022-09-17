@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao-Hang Zhang | Home</title>
+    <link>https://example.com/author/xiao-hang-zhang/</link>
+      <atom:link href="https://example.com/author/xiao-hang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiao-Hang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/xiao-hang-zhang/avatar_hu8778c06355936ef4feb5caa109ddd167_40851_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xiao-Hang Zhang</title>
+      <link>https://example.com/author/xiao-hang-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>
