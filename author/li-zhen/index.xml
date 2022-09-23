@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li Zhen | Home</title>
+    <link>https://example.com/author/li-zhen/</link>
+      <atom:link href="https://example.com/author/li-zhen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li Zhen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/li-zhen/avatar_hu3d5611733c63e4329f93dc5899e7ba63_67129_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Li Zhen</title>
+      <link>https://example.com/author/li-zhen/</link>
+    </image>
+    
+  </channel>
+</rss>
