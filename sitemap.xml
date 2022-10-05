@@ -4,6 +4,8 @@
   
   
   <url>
+    <loc>https://example.com/author/jian-jun-li/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/author/shen-yi-guo/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/sheng-min-zhao/</loc><changefreq>weekly</changefreq></url>
