@@ -162,8 +162,6 @@
   <url>
     <loc>https://example.com/members/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/nuo-chen-ye/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publication_types/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publications/</loc><changefreq>weekly</changefreq></url>
