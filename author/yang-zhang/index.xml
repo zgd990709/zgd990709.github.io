@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Zhang | Home</title>
+    <link>https://example.com/author/yang-zhang/</link>
+      <atom:link href="https://example.com/author/yang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yang-zhang/avatar_huc257c3f0e166d4a653e1be1b2c83ccdc_149973_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yang Zhang</title>
+      <link>https://example.com/author/yang-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

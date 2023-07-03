@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qian Zhang | Home</title>
+    <link>https://example.com/author/qian-zhang/</link>
+      <atom:link href="https://example.com/author/qian-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qian Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/qian-zhang/avatar_hu2dd33198693efa9597b81d98f2994862_118854_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Qian Zhang</title>
+      <link>https://example.com/author/qian-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>
