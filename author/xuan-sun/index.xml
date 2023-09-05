@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuan Sun | Home</title>
+    <link>https://example.com/author/xuan-sun/</link>
+      <atom:link href="https://example.com/author/xuan-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuan Sun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/xuan-sun/avatar_hua37c22680c6c00d36edbb58263f90e36_152670_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xuan Sun</title>
+      <link>https://example.com/author/xuan-sun/</link>
+    </image>
+    
+  </channel>
+</rss>
