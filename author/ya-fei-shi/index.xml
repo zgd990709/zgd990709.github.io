@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ya-Fei Shi | Home</title>
+    <link>https://example.com/author/ya-fei-shi/</link>
+      <atom:link href="https://example.com/author/ya-fei-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ya-Fei Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/ya-fei-shi/avatar_hu228d8a8c5b7219c9961599a657701f35_18959_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ya-Fei Shi</title>
+      <link>https://example.com/author/ya-fei-shi/</link>
+    </image>
+    
+  </channel>
+</rss>

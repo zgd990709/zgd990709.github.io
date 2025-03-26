@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi-Yao Xu | Home</title>
+    <link>https://example.com/author/yi-yao-xu/</link>
+      <atom:link href="https://example.com/author/yi-yao-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi-Yao Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yi-yao-xu/avatar_hu3eaa0d75a09b36c4f4cf19bf0af132cf_2240977_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yi-Yao Xu</title>
+      <link>https://example.com/author/yi-yao-xu/</link>
+    </image>
+    
+  </channel>
+</rss>

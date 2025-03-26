@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Chao | Home</title>
+    <link>https://example.com/author/yang-chao/</link>
+      <atom:link href="https://example.com/author/yang-chao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Chao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yang-chao/avatar_hu8ff1191e9dc2809d2057be85414a4c52_164593_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yang Chao</title>
+      <link>https://example.com/author/yang-chao/</link>
+    </image>
+    
+  </channel>
+</rss>
