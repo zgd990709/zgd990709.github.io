@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng-Fei Li | Home</title>
+    <link>https://example.com/author/peng-fei-li/</link>
+      <atom:link href="https://example.com/author/peng-fei-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peng-Fei Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/peng-fei-li/avatar_hua8c4aa1746928081f0145b6338d2a7b0_1382828_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Peng-Fei Li</title>
+      <link>https://example.com/author/peng-fei-li/</link>
+    </image>
+    
+  </channel>
+</rss>

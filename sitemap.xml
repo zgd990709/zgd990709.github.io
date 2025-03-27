@@ -170,13 +170,19 @@
   <url>
     <loc>https://example.com/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/author/hua-zhen-liu/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/author/hui-han/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/jun-lin-deng/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/meixiangwang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/authors/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/members/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/peng-fei-li/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication_types/</loc><changefreq>weekly</changefreq></url>
   <url>
