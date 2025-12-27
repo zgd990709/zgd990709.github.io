@@ -14,8 +14,6 @@
   <url>
     <loc>https://example.com/author/xiao-hang-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/cheng-jun-li/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/hai-bo-yang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/lian-cheng-qiao/</loc><changefreq>weekly</changefreq></url>
@@ -156,6 +154,8 @@
   <url>
     <loc>https://example.com/author/jia-hui-chen/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/author/cheng-jun-li/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/author/yu-qi-mao/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/contact/</loc><changefreq>weekly</changefreq></url>
@@ -165,6 +165,8 @@
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/gallery/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/hao-yuan/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/</loc><changefreq>weekly</changefreq></url>
   <url>
