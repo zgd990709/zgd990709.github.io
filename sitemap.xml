@@ -10,11 +10,19 @@
   <url>
     <loc>https://example.com/author/shuang-jun-lin/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/author/yang-chao/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/author/guo-qiang-feng/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/sheng-kai-hou/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/xiao-hang-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/author/ya-fei-shi/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/author/hai-bo-yang/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/lu-yu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/bao-yong-hou/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -60,23 +68,11 @@
   <url>
     <loc>https://example.com/author/en-xuan-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/yin-chen/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/li-xia-wang/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/peng-chen/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/shuai-pan/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/yue-zhang/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/yi-yao-xu/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/li-bin-zhang/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/yin-chen/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/sen-li/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/shuo-tong/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/yue-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/hao-yuan/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -84,7 +80,11 @@
   <url>
     <loc>https://example.com/author/jun-lin-deng/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/chuan-hu-lei/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/li-xia-wang/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/peng-chen/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/shuai-pan/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/hao-qi-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -94,9 +94,17 @@
   <url>
     <loc>https://example.com/author/jia-rui-liu/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/yu-fei-ao/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/li-bin-zhang/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/sen-li/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/shuo-tong/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/zhikun-lei/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/chuan-hu-lei/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/yu-fei-ao/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/jiang-tao-li/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -186,8 +194,6 @@
   <url>
     <loc>https://example.com/author/hui-han/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/lu-yu/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/meixiangwang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/authors/</loc><changefreq>weekly</changefreq></url>
@@ -202,8 +208,6 @@
   <url>
     <loc>https://example.com/research/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/sheng-kai-hou/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/shuotong/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq></url>
@@ -211,9 +215,5 @@
     <loc>https://example.com/author/wen-ju-zhu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/xin-yu-zhang/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/ya-fei-shi/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/yang-chao/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/zhan-da-fu/</loc><changefreq>weekly</changefreq></url></urlset>
