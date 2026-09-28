@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao-qi Zhang | Home</title>
+    <link>https://example.com/author/hao-qi-zhang/</link>
+      <atom:link href="https://example.com/author/hao-qi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao-qi Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/hao-qi-zhang/avatar_hu9a3dd9281d1deae15bf2fbef320f906b_159688_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hao-qi Zhang</title>
+      <link>https://example.com/author/hao-qi-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

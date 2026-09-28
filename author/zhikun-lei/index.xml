@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi‑Kun Lei | Home</title>
+    <link>https://example.com/author/zhikun-lei/</link>
+      <atom:link href="https://example.com/author/zhikun-lei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi‑Kun Lei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/zhikun-lei/avatar_hu09414b3475eb5be2ab4575716d6f7f84_173300_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhi‑Kun Lei</title>
+      <link>https://example.com/author/zhikun-lei/</link>
+    </image>
+    
+  </channel>
+</rss>
